@@ -1,0 +1,10 @@
+com/MEM/guessthenumber/databinding/ActivityThirdBinding.java
+ com.MEM.guessthenumber.databinding.ActivityThirdBinding
+com/MEM/guessthenumber/BuildConfig.java
+ com.MEM.guessthenumber.BuildConfig
+com/MEM/guessthenumber/databinding/ActivityMainBinding.java
+ com.MEM.guessthenumber.databinding.ActivityMainBinding
+com/MEM/guessthenumber/databinding/ActivitySecondBinding.java
+ com.MEM.guessthenumber.databinding.ActivitySecondBinding
+com/MEM/guessthenumber/databinding/ActivitySplashScreenBinding.java
+ com.MEM.guessthenumber.databinding.ActivitySplashScreenBinding
